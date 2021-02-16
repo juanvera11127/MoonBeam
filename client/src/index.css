@@ -1,0 +1,11 @@
+
+.listingCard{
+    margin-bottom: 1.5em;
+}
+.listingCard:last-child{
+    margin-bottom: 0;
+}
+.join-font{
+    color: white;
+}
+
